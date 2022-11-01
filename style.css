@@ -1,0 +1,46 @@
+.nav{
+    background-color: skyblue;
+    top: 0px;
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    width: 100%;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 35px;
+    font-family: Kanit;
+    color: coral;
+}
+.links:hover{
+  font-size: large;
+  text-shadow: 5px 5px 5px black;
+}
+.truthndare{
+    float: left;
+}
+h3{
+    font-family: 'New Tegomin';
+}
+img{
+    width: 10%;
+}
+#home{
+    background-color: cornsilk;
+}
+h1{
+    font-family: sans-serif;
+}
+#anon{
+    border-radius: 20%;
+    border-image: black;
+    width: 30%;
+}
+#contact{
+    background-color: aqua;
+}
+#downloads{
+    background-color: chartreuse;
+}
